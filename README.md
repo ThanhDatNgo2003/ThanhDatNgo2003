@@ -41,4 +41,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdatngo2003&show_icons=true&locale=en" alt="thanhdatngo2003" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdatngo2003&" alt="thanhdatngo2003" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=thanhdatngo2003&show_icons=true&locale=en&layout=compact" alt="thanhdatngo2003" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thanhdatngo2003" alt="thanhdatngo2003" /></a></p>
