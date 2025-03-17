@@ -1,5 +1,14 @@
-<h1>Hi 👋, I'm Thanh Dat Ngo</h1>
-<p>A passionate frontend developer from Vietnam</p>
+<h1 align="center">Hi 👋, I'm Thanh Dat Ngo</h1>
+<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhdatngo2003&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdatngo2003" /> </p>
+
+- 🔭 I’m currently working on **MEXER - Start-Up Project**
+
+- 🌱 I’m currently learning **Software Testing,...**
+
+- 📫 How to reach me **ngothanhdatpq2003@gmail.com**
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
