@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhdatngo2003&label=Profile%20views&color=0e75b6&style=flat" alt="thanhdatngo2003" /> </p>
 
+- ⚡ Aspiring **Software Engineer** | Future **PM/PO**
+  
 - 🔭 I’m currently working on **MEXER - Start-Up Project**
 
 - 🌱 I’m currently learning **Software Testing,...**
